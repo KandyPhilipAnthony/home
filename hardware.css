@@ -1,0 +1,39 @@
+h1
+{ 
+	text-align: center;
+	font-size: 26pt;
+	Color: Red;
+}
+
+#toc1
+{	
+	text-align: center;
+	font-size: 24;
+	color: blue
+}
+
+#toc2
+{
+	/* this is used to make a table of contents*/
+	text-align: center;
+	/*Start of border*/
+	border-color: black; 
+	border-width: 5pt;
+	border-style: solid;
+	/* End of border*/
+	font-size: 23pt;
+	text-decoration: none;
+}
+
+#label
+{
+	text-align : center;
+	color : green;
+}
+
+.center 
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
